@@ -13,6 +13,12 @@ A supervised machine-learning mini-project that predicts whether a telecom custo
 
 IBM Telco Customer Churn sample dataset: https://github.com/IBM/telco-customer-churn-on-icp4d/blob/master/data/Telco-Customer-Churn.csv
 
+## Live Website
+
+**Try the Customer Churn Prediction System:** [Open Web App](https://customer-churn-prediction-system-arpan.streamlit.app/)
+
+The application predicts customer churn probability based on customer service, contract, and billing details.
+
 ## Run locally (optional)
 
 ```bash
