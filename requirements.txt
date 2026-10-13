@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+# Before deployment, pin scikit-learn (and preferably numpy/joblib) to the versions printed in Colab.
